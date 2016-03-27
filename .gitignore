@@ -1,0 +1,6 @@
+*.db
+/bin/
+.classpath
+.project
+eclipse
+.gradle
