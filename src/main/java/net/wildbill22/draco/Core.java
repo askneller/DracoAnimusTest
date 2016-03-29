@@ -58,7 +58,7 @@ import cpw.mods.fml.relauncher.Side;
  *
  */
 @Mod(modid = REFERENCE.MODID, name = REFERENCE.NAME, version = REFERENCE.VERSION, 
-dependencies = "required-after: Enchiridion2",
+//dependencies = "required-after: Enchiridion2",
 //dependencies = "required-after: MCVanillaTweaks",
 guiFactory = "net.wildbill22.draco.client.gui.ModGuiFactory"
 )
